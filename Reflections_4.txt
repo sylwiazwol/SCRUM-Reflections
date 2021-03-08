@@ -1,0 +1,3 @@
+Jaka jest podstawowa różnica pomiędzy SCRUM a Kanban?
+W Scrum jest 5 waznych punktów podziału pracy,
+a w Kanban 3.
