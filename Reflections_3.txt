@@ -1,0 +1,6 @@
+Ile osób powinno być w dobrze działającym zespole Scrumowym?
+ Scrum Guide wyraźnie mówi, że Zespół Deweloperski powinien 
+liczyć od trzech do dziewięciu osób, a więc zawierający go 
+Scrum Team – od czterech (osobny Product Owner, Scrum Master 
+jako członek zespołu) do jedenastu (zarówno PO jak i SM poza 
+Zespołem Deweloperskim).
