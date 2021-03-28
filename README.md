@@ -1,2 +1,2 @@
 # SCRUM-Reflections
-# Repository made for testing
+Repository made for testing
